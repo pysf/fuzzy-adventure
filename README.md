@@ -1,11 +1,5 @@
 # Recipe Stats Calculator
 
-## Descriptions
-
-It was a very interesting task to do, I learned and enjoyed it.
-It is worth mentioning that I learned Golang recently (nearly two months ago) It's my second app with Go and all comments are welcome. (The First app is [GoPipelines](https://github.com/pysf/go-pipelines) if you are interested.)  
-One last thing, You may see commits from two different usernames (parmenides and pysf), they are both me! sorry for that it just happened by mistake.
-
 ## Implementatios Details
 
 1. Any type that satisfies the searchEngine interface can be added to the SearchAggregator easily
